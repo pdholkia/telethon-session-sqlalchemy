@@ -1,4 +1,4 @@
 from .sqlalchemy import AlchemySessionContainer
 
-__version__ = "0.2.16"
+__version__ = "1.4.41"
 __author__ = "Tulir Asokan <tulir@maunium.net>"
